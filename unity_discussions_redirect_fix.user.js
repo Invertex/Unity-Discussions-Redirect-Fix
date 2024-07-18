@@ -19,6 +19,6 @@
     let urlSplit = url.split('.com/threads/');
     if(urlSplit.length > 1)
     {
-        window.location.href = urlSplit[0] + '.com/t/' + urlSplit[1].split('/')[0];
+        window.location.href = urlSplit[0] + '.com/t/' + urlSplit[1].split('.')[0];
     }
 })();
