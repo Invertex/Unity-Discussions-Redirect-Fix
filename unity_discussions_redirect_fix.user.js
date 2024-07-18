@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Unity Discussions Redirect Fix
 // @namespace    Invertex
-// @version      2024-07-18
+// @version      2024-07-18_01_02
 // @description  Fixes the redirect from old Discussions forum links to the new Discussions forum
 // @author       Invertex
 // @updateURL    https://github.com/Invertex/Unity-Discussions-Redirect-Fix/raw/main/unity_discussions_redirect_fix.user.js
